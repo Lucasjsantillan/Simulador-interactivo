@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Foodelux**
+- 🔭 I’m currently working on **Simulador-interactivo**
 
 - 💬 Ask me about **Movies, Videos games, Music, Deportes**
 
